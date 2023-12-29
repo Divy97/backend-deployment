@@ -1,0 +1,12 @@
+{
+  "name": "backend-deployment",
+  "version": "1.0.0",
+  "description": "basic backend and deployment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "Divy Parekh",
+  "license": "ISC"
+}
